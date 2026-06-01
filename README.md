@@ -1,11 +1,9 @@
 CivicSnap
 📌 Overview
-
 My working website link:-https://civic-snap-application.web.app CivicSnap is a community-driven civic issue reporting platform designed to bridge the gap between citizens and local authorities. The platform enables users to report public issues such as potholes, garbage accumulation, water leakage, damaged streetlights, and other civic concerns. Citizens can track the status of their complaints while authorities can efficiently manage and resolve reported issues.
 The goal of CivicSnap is to promote transparency, accountability, and active citizen participation in improving local communities.
 
 ✨ Features
-
 📝 Report civic issues with detailed descriptions
 📍 Location-based issue reporting
 📸 Upload images as evidence
@@ -15,7 +13,6 @@ The goal of CivicSnap is to promote transparency, accountability, and active cit
 ☁️ Firebase-powered backend
 
 🛠️ Tech Stack
-
 Frontend:-
 React
 TypeScript
@@ -29,7 +26,6 @@ Deployment:-
 Firebase Hosting
 
 🎯 Problem Statement
-
 Many civic issues remain unresolved due to inefficient communication between citizens and local authorities. CivicSnap provides a centralized platform where users can easily report issues, monitor progress, and contribute to creating cleaner, safer, and more organized communities.
 
 📸 Screenshots
@@ -41,6 +37,6 @@ Many civic issues remain unresolved due to inefficient communication between cit
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a233a4eb-45bb-4196-a5d2-970385c0e82a" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/81537b14-6ad1-488b-a8f6-8997d8ac900b" />
 
-👩‍💻 Author
+👩‍💻 Author:-
 Paree Khatri
 Third-Year Engineering Student | Web Developer | Problem Solver
