@@ -1,7 +1,7 @@
 CivicSnap
 📌 Overview
 
-CivicSnap is a community-driven civic issue reporting platform designed to bridge the gap between citizens and local authorities. The platform enables users to report public issues such as potholes, garbage accumulation, water leakage, damaged streetlights, and other civic concerns. Citizens can track the status of their complaints while authorities can efficiently manage and resolve reported issues.
+My working website link:-https://civic-snap-application.web.app CivicSnap is a community-driven civic issue reporting platform designed to bridge the gap between citizens and local authorities. The platform enables users to report public issues such as potholes, garbage accumulation, water leakage, damaged streetlights, and other civic concerns. Citizens can track the status of their complaints while authorities can efficiently manage and resolve reported issues.
 The goal of CivicSnap is to promote transparency, accountability, and active citizen participation in improving local communities.
 
 ✨ Features
